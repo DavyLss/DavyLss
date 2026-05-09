@@ -1,31 +1,41 @@
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
+
+# Salut, moi c'est Davy 👋
+
+Je travaille surtout autour de l'**infra**, du **self-hosting** et de l'**automatisation**.
+
+Une bonne partie de ce que je construis vit dans des **repos privés**, dans mon **homelab**, ou dans des outils internes que j'utilise au quotidien. GitHub ne montre donc qu'une partie du tableau — mais les projets publics ici donnent une bonne idée de ma façon de travailler.
+
+## En ce moment
+- homelab et services self-hosted
+- infra Proxmox / LXC / Docker
+- tunnels Cloudflare et exposition propre des services
+- automatisation, CI/CD, observabilité
+- workflows assistés par IA pour l'exploitation et le dev
+
+> Je préfère garder privé ce qui est encore en chantier, et publier ce qui devient vraiment utile, propre et maintenable.
+
+---
 
 # Hi, I'm Davy 👋
 
-I build **self-hosted systems, private tooling, and practical DevOps workflows**.
+I mostly work on **infrastructure**, **self-hosting**, and **automation**.
 
-Most of my work lives in **private repos, homelab infrastructure, and internal automation** — public projects are the polished tip of the iceberg.
+A lot of what I build lives in **private repositories**, inside my **homelab**, or in internal tools I use every day. So GitHub only shows part of the picture — but the public work here still reflects how I build and operate things.
 
-## What I focus on
-- 🏠 self-hosting & homelab architecture
-- 🧱 Proxmox / LXC / Docker based infrastructure
-- ☁️ Cloudflare tunnels, routing, and edge exposure
-- 🤖 AI-assisted workflows, local tooling, and automation
-- 🔁 CI/CD, observability, reliability, and operator UX
+## Currently working on
+- homelab and self-hosted services
+- Proxmox / LXC / Docker infrastructure
+- Cloudflare tunnels and clean edge exposure
+- automation, CI/CD, and observability
+- AI-assisted workflows for ops and development
 
-## Currently building
-- **OpenClaw / Opencode workflows** for AI-assisted operations and development
-- **Private infrastructure tooling** around deployment, orchestration, and repeatability
-- **Self-hosted services** designed to be clean, useful, and production-minded
-- **Portfolio and product ideas** that start private and go public once they’re solid
-
-## Philosophy
-> Build private by default. Publish what is useful, stable, and worth maintaining.
+> I like to keep things private while they are still moving, and publish them once they become useful, clean, and maintainable.
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
@@ -58,20 +68,20 @@ Most of my work lives in **private repos, homelab infrastructure, and internal a
 
 ---
 
-## Selected public work
+## Public projects / Projets publics
 
 ### [portfolio](https://github.com/DavyLss/portfolio)
-Personal portfolio and public-facing presentation layer.
+A small public window into my work and how I like to present things.
 
 ### [jira-us-creator](https://github.com/DavyLss/jira-us-creator)
-Utility project around creating Jira user stories faster.
+A practical utility project built to make Jira user story creation faster.
 
 ### [pomdapi](https://github.com/DavyLss/pomdapi)
-Older API project kept public as part of the journey.
+An older public project still visible as part of the journey.
 
 ---
 
-## Infrastructure & toolchain
+## Stack
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -98,18 +108,16 @@ Older API project kept public as part of the journey.
 
 ---
 
-## A better summary of my work
+## In short / En bref
 
-GitHub only shows a part of what I do.
-
-A lot of my real work happens in:
+A lot of my real work happens outside public GitHub:
 - private repositories
 - infrastructure projects
-- deployment automation
+- deployment and operations tooling
 - internal experiments
-- self-hosted systems running continuously outside public GitHub
+- self-hosted services that run continuously outside public repos
 
-If a project is public here, it usually means I believe it is mature enough to share.
+If something is public here, it's usually because I think it is worth sharing.
 
 ---
 
@@ -118,15 +126,3 @@ If a project is public here, it usually means I believe it is mature enough to s
 - GitHub: [@DavyLss](https://github.com/DavyLss)
 - Portfolio: add your URL here
 - LinkedIn: add your URL here
-
-<!--
-Optional future section idea:
-
-## Homelab snapshot
-- Proxmox cluster / LXC / Docker workloads
-- Cloudflare tunnels & DNS edge
-- Media / AI / automation stack
-- Monitoring & deployment pipelines
-
-This can become a custom SVG later for a stronger “wow” effect.
--->
