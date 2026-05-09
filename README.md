@@ -29,20 +29,16 @@ A lot of what I build lives in private repositories, inside my homelab, or in in
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyLss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DavyLss&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
 </p>
 
 </td>
 </tr>
 </table>
-
----
-
-## Momentum
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyLss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
