@@ -28,7 +28,7 @@ Most of my work lives in **private repos, homelab infrastructure, and internal a
 <td width="38%" valign="top">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavyLss&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Older API project kept public as part of the journey.
 ## Public activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
