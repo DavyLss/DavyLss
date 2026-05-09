@@ -51,6 +51,14 @@ A lot of what I build lives in private repositories, inside my homelab, or in in
 
 ---
 
+## Offline-ready stacks
+
+Projects currently being prepared before a public release:
+- **offline-gitlab-components**, an offline GitLab CE + Runner stack for internal CI components
+- **offline-passbolt**, an offline Passbolt stack for on-premise secret management
+
+---
+
 ## Public projects
 
 ### [portfolio](https://github.com/DavyLss/portfolio)
