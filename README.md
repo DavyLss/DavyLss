@@ -28,11 +28,11 @@ Most of my work lives in **private repos, homelab infrastructure, and internal a
 <td width="38%" valign="top">
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavyLss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DavyLss&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
 </p>
 
 </td>
@@ -72,11 +72,11 @@ Older API project kept public as part of the journey.
 ## Public activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavyLss&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavyLss&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 ---
