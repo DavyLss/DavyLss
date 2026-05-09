@@ -41,6 +41,23 @@ Most of my work lives in **private repos, homelab infrastructure, and internal a
 
 ---
 
+## Momentum
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyLss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Featured repositories
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DavyLss&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio repo" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DavyLss&repo=jira-us-creator&theme=tokyonight&hide_border=true" alt="jira-us-creator repo" />
+</p>
+
+---
+
 ## Selected public work
 
 ### [portfolio](https://github.com/DavyLss/portfolio)
