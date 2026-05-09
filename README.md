@@ -4,35 +4,35 @@
 
 # Salut, moi c'est Davy 👋
 
-Je travaille surtout autour de l'**infra**, du **self-hosting** et de l'**automatisation**.
+Je travaille surtout autour de l'infra, du self-hosting et de l'automatisation.
 
-Une bonne partie de ce que je construis vit dans des **repos privés**, dans mon **homelab**, ou dans des outils internes que j'utilise au quotidien. GitHub ne montre donc qu'une partie du tableau — mais les projets publics ici donnent une bonne idée de ma façon de travailler.
+Une bonne partie de ce que je construis vit dans des repos privés, dans mon homelab, ou dans des outils internes que j'utilise au quotidien. GitHub ne montre donc qu'une partie du tableau, mais les projets publics ici donnent une bonne idée de ma façon de travailler.
 
 ## En ce moment
 - homelab et services self-hosted
-- infra Proxmox / LXC / Docker
+- infra Proxmox, LXC, Docker
 - tunnels Cloudflare et exposition propre des services
 - automatisation, CI/CD, observabilité
 - workflows assistés par IA pour l'exploitation et le dev
 
-> Je préfère garder privé ce qui est encore en chantier, et publier ce qui devient vraiment utile, propre et maintenable.
+> Je préfère garder privé ce qui est encore en chantier, puis publier ce qui devient vraiment utile, propre et maintenable.
 
 ---
 
 # Hi, I'm Davy 👋
 
-I mostly work on **infrastructure**, **self-hosting**, and **automation**.
+I mostly work on infrastructure, self-hosting, and automation.
 
-A lot of what I build lives in **private repositories**, inside my **homelab**, or in internal tools I use every day. So GitHub only shows part of the picture — but the public work here still reflects how I build and operate things.
+A lot of what I build lives in private repositories, inside my homelab, or in internal tools I use every day. So GitHub only shows part of the picture, but the public work here still reflects how I build and operate things.
 
 ## Currently working on
 - homelab and self-hosted services
-- Proxmox / LXC / Docker infrastructure
+- Proxmox, LXC, Docker infrastructure
 - Cloudflare tunnels and clean edge exposure
 - automation, CI/CD, and observability
 - AI-assisted workflows for ops and development
 
-> I like to keep things private while they are still moving, and publish them once they become useful, clean, and maintainable.
+> I like to keep things private while they are still moving, then publish them once they become useful, clean, and maintainable.
 
 </td>
 <td width="40%" valign="top">
@@ -68,7 +68,7 @@ A lot of what I build lives in **private repositories**, inside my **homelab**, 
 
 ---
 
-## Public projects / Projets publics
+## Public projects, Projets publics
 
 ### [portfolio](https://github.com/DavyLss/portfolio)
 A small public window into my work and how I like to present things.
@@ -77,7 +77,7 @@ A small public window into my work and how I like to present things.
 A practical utility project built to make Jira user story creation faster.
 
 ### [pomdapi](https://github.com/DavyLss/pomdapi)
-An older public project still visible as part of the journey.
+An older public project, still visible as part of the journey.
 
 ---
 
@@ -108,7 +108,7 @@ An older public project still visible as part of the journey.
 
 ---
 
-## In short / En bref
+## In short, En bref
 
 A lot of my real work happens outside public GitHub:
 - private repositories
