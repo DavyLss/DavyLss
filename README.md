@@ -35,13 +35,9 @@ Projects I am preparing before making them public:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ## GitHub snapshot
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-</p>
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DavyLss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavyLss&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contact
 - Portfolio: [davy.lassechere.fr](https://davy.lassechere.fr/)
