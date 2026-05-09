@@ -59,9 +59,6 @@ A small public window into my work and how I like to present things.
 ### [jira-us-creator](https://github.com/DavyLss/jira-us-creator)
 A practical utility project built to make Jira user story creation faster.
 
-### [pomdapi](https://github.com/DavyLss/pomdapi)
-An older public project, still visible as part of the journey.
-
 ---
 
 ## Stack
