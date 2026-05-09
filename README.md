@@ -107,5 +107,5 @@ If something is public here, it's usually because I think it is worth sharing.
 ## Contact
 
 - GitHub: [@DavyLss](https://github.com/DavyLss)
-- Portfolio: add your URL here
-- LinkedIn: add your URL here
+- Portfolio: [davy.lassechere.fr](https://davy.lassechere.fr/)
+- LinkedIn: [davy-l-4199b0159](https://www.linkedin.com/in/davy-l-4199b0159/)
